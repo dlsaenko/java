@@ -1,4 +1,4 @@
-package lesson5;
+package L005.Console;
 
 public class Console {
     public static void main(String[] args) {

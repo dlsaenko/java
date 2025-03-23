@@ -1,4 +1,4 @@
-package lesson6;
+package L006.Variables;
 
 public class Variables {
     public static void main(String[] args) {
