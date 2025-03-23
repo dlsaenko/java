@@ -1,4 +1,4 @@
-package L003.LiveTemplates;
+package l003.livetemplates;
 
 public class LiveTemplates {
     /*

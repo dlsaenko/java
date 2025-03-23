@@ -1,4 +1,4 @@
-package L005.Console;
+package l005.console;
 
 public class Console {
     public static void main(String[] args) {

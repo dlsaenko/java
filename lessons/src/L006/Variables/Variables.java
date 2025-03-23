@@ -1,4 +1,4 @@
-package L006.Variables;
+package l006.variables;
 
 public class Variables {
     public static void main(String[] args) {

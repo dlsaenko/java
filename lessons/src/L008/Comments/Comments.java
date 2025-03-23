@@ -1,4 +1,4 @@
-package L008.Comments;
+package l008.comments;
 
 public class Comments {
     public static void main(String[] args) {

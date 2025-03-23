@@ -1,4 +1,4 @@
-package L004.ReformatCode;
+package l004.reformatcode;
 
 public class ReformatCode {
     /*

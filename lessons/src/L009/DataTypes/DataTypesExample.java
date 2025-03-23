@@ -1,4 +1,4 @@
-package L009.DataTypes;
+package l009.datatypes;
 
 public class DataTypesExample {
     public static void main(String[] args) {
